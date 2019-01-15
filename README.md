@@ -5,7 +5,7 @@ https://iotappstory.com/community/projects/3241/blynk-water-pressure-monitor
 
 0-10 PSI pressure transducer
 
-Use internal voltage source for referance voltage divider (trim pot) on 5 volt pressure transducer
+Use VCC voltage source (make sure this is stable!) for referance voltage divider (trim pot) on 5 volt pressure transducer
 
 Setup:
 
