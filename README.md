@@ -1,4 +1,4 @@
-# Blynk_IOS_PressureMonitor
+# Blynk_IOTAS_PressureMonitor
 NodeMCU Analogue Input Pressure monitor with merged code from Blynk and IOTAPPstory (OTA)
 
 https://iotappstory.com/community/projects/3241/blynk-water-pressure-monitor
